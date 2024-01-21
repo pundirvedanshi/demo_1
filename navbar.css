@@ -1,0 +1,25 @@
+ul{
+    list-style-type:none;
+}
+li a{
+    text-decoration: none;
+    color:blue;
+    font-size:40px;
+    font-weight: bold;
+    display: block;
+    padding-top: 7px;
+    text-align: center;
+}
+li{
+    float:left;
+    margin-left: 100px;
+    background:yellow;
+    border:2px solid green;
+    border-radius: 20px;
+}
+body{
+    background:lightblue;
+}
+h1{
+    text-align:center;
+}
